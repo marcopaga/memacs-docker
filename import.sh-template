@@ -1,0 +1,2 @@
+#! /bin/bash
+memacs_ical.py -h
